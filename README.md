@@ -48,8 +48,8 @@ This practical context is what allows me to look at AI through a highly realisti
 
 It's a new world and the new tools are genuinely exciting. I've been 
 completely mesmerised by what's possible with image and video creation 
-— I've even put together some comedy songs along the way 
-([@PlainVanylla](https://www.youtube.com/@PlainVanylla)). 
+— I've even put together some AI generated videos for some of my comedy songs
+along the way ([@PlainVanylla](https://www.youtube.com/@PlainVanylla)). 
 But then agentic AI arrived and everything started to get complicated 
 very quickly.
 
@@ -69,7 +69,7 @@ from there — simply, deliberately, and in a way your team can actually
 understand and use.
 
 We need to learn, understand, apply, and ship — not sit in a classroom for
-two years chasing a degree to catch up with a world that's already moved on
+two years chasing a degree to catch up with a world that's already moved on.
 
 ---
 
@@ -98,19 +98,6 @@ This repository is a living document. It will grow as I learn, build, and break 
 
 ---
 
-## Certifications & training
-
-**Completed**
-- [Google Cloud — Agentic Strategy: Discover, Design and Prototype](https://coursera.org/share/3c14f6be5d1a638577c08e0d960d9c1a) (Coursera, May 2026)
-- Claude 101 (Anthropic, May 2026)
-- Claude Code 101 (Anthropic, June 2026)
-
-**In progress**
-- AI Fluency: Framework & Foundations (Anthropic)
-- Introduction to Claude Cowork (Anthropic)
-
----
-
 ## Environment & tools
 
 - Claude (Anthropic)
@@ -126,3 +113,16 @@ This repository is a living document. It will grow as I learn, build, and break 
 ## Beyond the build
 
 When I'm not mapping workflows or breaking automations, I write comedy songs and play guitar. I practice yoga. I'm fascinated by Jungian archetypes and what they reveal about how people think, make decisions, and resist change — which, as it turns out, is not entirely unrelated to construction teams adopting new technology.
+
+---
+
+## Certifications & training
+
+**Completed**
+- [Google Cloud — Agentic Strategy: Discover, Design and Prototype](https://coursera.org/share/3c14f6be5d1a638577c08e0d960d9c1a) (Coursera, May 2026)
+- Claude 101 (Anthropic, May 2026)
+- Claude Code 101 (Anthropic, June 2026)
+
+**In progress**
+- AI Fluency: Framework & Foundations (Anthropic)
+- Introduction to Claude Cowork (Anthropic)
