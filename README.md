@@ -73,8 +73,8 @@ This repository is a living document. It will grow as I learn, build, and break 
 
 **Completed**
 - [Google Cloud — Agentic Strategy: Discover, Design and Prototype](https://coursera.org/share/3c14f6be5d1a638577c08e0d960d9c1a) (Coursera, May 2026)
-- [Claude 101](https://verify.skilljar.com/c/3ha29ncuuq8s) (Anthropic, May 2026)
-- [Claude Code 101](https://verify.skilljar.com/c/838g7bnwf3vg) (Anthropic, June 2026)
+- Claude 101 (Anthropic, May 2026)
+- Claude Code 101 (Anthropic, June 2026)
 
 **In progress**
 - AI Fluency: Framework & Foundations (Anthropic)
