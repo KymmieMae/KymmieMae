@@ -44,6 +44,35 @@ This practical context is what allows me to look at AI through a highly realisti
 
 ---
 
+## My AI philosophy
+
+It's a new world and the new tools are genuinely exciting. I've been 
+completely mesmerised by what's possible with image and video creation 
+— I've even put together some comedy songs along the way 
+([@PlainVanylla](https://www.youtube.com/@PlainVanylla)). 
+But then agentic AI arrived and everything started to get complicated 
+very quickly.
+
+So I went looking for simplicity.
+
+I found it in a methodology that just clicked: instead of building 
+complex agentic workflows with API calls flying in every direction, 
+start with a structured folder system that holds context and 
+instructions. It's portable. It's platform-agnostic. It can be 
+understood and maintained by someone who isn't technical. And it works.
+
+For construction companies specifically, my view is this: before 
+building anything, look at where AI has already been built into the 
+tools you're paying for. Gain productivity there first. Then start 
+mapping your workflows, decide which area to tackle first, and build 
+from there — simply, deliberately, and in a way your team can actually 
+understand and use.
+
+We need to learn, understand, apply, and ship — not sit in a classroom for
+two years chasing a degree to catch up with a world that's already moved on
+
+---
+
 ## What I'm building here
 
 **A Three-Stage Framework:** For mapping, diagnosing, and automating complex construction operational workflows.
