@@ -72,7 +72,7 @@ This repository is a living document. It will grow as I learn, build, and break 
 ## Certifications & training
 
 **Completed**
-- Google Cloud — Agentic Strategy: Discover, Design and Prototype (Coursera, May 2026)
+- [Google Cloud — Agentic Strategy: Discover, Design and Prototype](https://coursera.org/share/3c14f6be5d1a638577c08e0d960d9c1a) (Coursera, May 2026)
 
 **In progress**
 - Anthropic Claude developer training (Skilljar)
