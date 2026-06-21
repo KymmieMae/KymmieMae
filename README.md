@@ -1,4 +1,4 @@
-# Kym Strachan
+# KymmieMae
 ## Construction Operations & AI Automation
 ### Gold Coast, QLD
 
